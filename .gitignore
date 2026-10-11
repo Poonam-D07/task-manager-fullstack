@@ -1,0 +1,17 @@
+# IntelliJ
+.idea/
+*.iml
+
+# Backend
+notes-todo-app/target/
+notes-todo-app/.idea/
+
+# Frontend
+notes-todo-frontend/node_modules/
+notes-todo-frontend/dist/
+
+# Common
+*.log
+.DS_Store
+
+notes-todo-app/${project.build.directory}/
